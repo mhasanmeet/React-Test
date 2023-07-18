@@ -18,7 +18,7 @@
 
 ## React Testing Library (rtl)
 * [What to test and what not to test](./test-documentation/113-rtl/113-what-to-test.md)
-* 
+* [RTL queries](./test-documentation/113-rtl/114-rtl-queries.md)
 ----
 ## Resources 
 * [React Testing Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
