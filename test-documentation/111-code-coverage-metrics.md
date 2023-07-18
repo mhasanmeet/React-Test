@@ -24,7 +24,7 @@ the full command something like,
 
 > `"coverage": "react-scripts test --coverage --watchAll --collectCoverageForm='src/components/**/*.{ts,tsx}"`
 
-Ignore ==tests, specs, types, stories, constants== files from coverage area, so the full script is,
+Ignore **tests, specs, types, stories, constants** files from coverage area, so the full script is,
 
 > `"coverage": "react-scripts test --coverage --watchAll --collectCoverageFrom='src/components/**/*.{ts,tsx}' --collectCoverageFrom='!src/components/**/*.{types,stories,constants,test,spec}.{ts,tsx}'"`
 

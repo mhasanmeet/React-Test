@@ -12,7 +12,9 @@
 * [Group & Nested group test](./test-documentation/109-group-nested-group-test.md)
 * [Filename convention](./test-documentation/110-filename-convention.md)
 * [Code coverage metrics](./test-documentation/111-code-coverage-metrics.md)
+* [Assertions / Code Condition / Matches](./test-documentation/112-assertions.md)
 
 ----
 ## Resources 
 * [React Testing Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
+* [Jest](https://jestjs.io/)
